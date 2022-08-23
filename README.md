@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vyvy
 - 👀 I’m interested in education and creativity.
-- 🌱 I’m a fresh man in IT majority.
+- 🌱 I’m a freshmen in IT majority.
 - 📫 Reach me at
 
 Fb:https://www.facebook.com/baovybanana14
