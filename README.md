@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @Vyvy
-- 👀 I’m interested in education and creativity.
-- 🌱 I’m a freshmen in IT majority.
-- 📫 Reach me at
-
-Fb:https://www.facebook.com/baovybanana14
-
-Ig:miinh.anh__
-
-Email:ntvy.wspace@gmail.com
 
 <!---
 vyvy1402/vyvy1402 is a ✨ special ✨ repository because its `READVyvy.md` (this file) appears on your GitHub profile.
